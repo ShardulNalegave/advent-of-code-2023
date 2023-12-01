@@ -1,3 +1,5 @@
+pub mod task1;
+
 fn main() {
-    println!("Hello, world!");
+  println!("{:?}", task1::task1());
 }
